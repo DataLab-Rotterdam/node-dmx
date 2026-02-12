@@ -1,7 +1,7 @@
 {
   "name": "node-dmx",
   "version": "0.0.1",
-  "description": "DMX sACN RDM typescript interface",
+  "description": "node-dmx is a TypeScript library for controlling DMX over IP from Node.js.\n\n",
   "main": "./dist/index.es.js",
   "module": "./dist/index.es.js",
   "types": "./dist/index.d.ts",
