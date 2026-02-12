@@ -46,7 +46,7 @@ import {
     type LlrpMessage,
 } from './ept-llrp';
 import {decodeRptMessage, encodeRptMessage, RptVector, type RptMessage, type RptRdmResponseMessage} from './rpt';
-import type {RdmRequest, RdmResponse} from '../artnet';
+import type {RdmRequest, RdmResponse} from '../artnet/rdm/types';
 
 /**
  * Configuration for a {@link RdmnetClient}.

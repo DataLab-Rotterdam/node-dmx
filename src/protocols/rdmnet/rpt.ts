@@ -2,9 +2,9 @@
  * RDMnet RPT message helpers.
  * @module rdmnet/rpt
  */
-import {decodeRdmResponse, encodeRdmRequest} from '../artnet';
-import type {RdmRequest, RdmResponse} from '../artnet';
-import {uidFromBuffer, uidToBuffer} from '../artnet';
+import {decodeRdmResponse, encodeRdmRequest} from '../artnet/rdm/codec';
+import type {RdmRequest, RdmResponse} from '../artnet/rdm/types';
+import {uidFromBuffer, uidToBuffer} from '../artnet/rdm/uid';
 import {BrokerClientRole} from './broker';
 
 export enum RptVector {
