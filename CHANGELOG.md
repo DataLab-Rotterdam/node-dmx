@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/DataLab-Rotterdam/node-dmx/compare/v1.1.0...v1.1.1) (2026-02-12)
+
+
+### Bug Fixes
+
+* added missing ([d804313](https://github.com/DataLab-Rotterdam/node-dmx/commit/d804313792ef29e0786c54a82e7dbaf97c5c8f7f))
+
 # [1.1.0](https://github.com/DataLab-Rotterdam/node-dmx/compare/v1.0.1...v1.1.0) (2026-02-12)
 
 
